@@ -1,0 +1,5 @@
+outs:
+- md5: 6e3de4c47bed545b8f2e7d5cb0893330.dir
+  size: 248325349
+  nfiles: 578
+  path: tweets-retweeted

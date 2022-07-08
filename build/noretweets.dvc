@@ -1,0 +1,5 @@
+outs:
+- md5: 840a51de844b5eac41c1fdedfd5dced1.dir
+  size: 8037080533
+  nfiles: 576
+  path: noretweets
